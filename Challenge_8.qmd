@@ -14,7 +14,9 @@ categories:
   - challenge_8
 ---
 
-**The last movie I have watched in a theater is "Leo".**
+**Task 1:** **The last movie I have watched in a theater is "Leo".**
+
+**Task 2: Today I had jeera rice, naan and chicken curry for my lunch.**
 
 	
 		
